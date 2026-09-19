@@ -1,10 +1,15 @@
 {
   "name": "Simone Cooper-Bernard | Midwife Par Excellence",
   "short_name": "Midwife Par Excellence",
-  "description": "Antenatal, pregnancy, birth and reproductive-health education from Simone Cooper-Bernard, plus a Jamaica-wide maternal-health service finder.",
+  "description": "Pregnancy, antenatal, birth and reproductive-health education from Simone Cooper-Bernard, with a Jamaica-wide maternal-health service finder.",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
   "background_color": "#fffafc",
   "theme_color": "#5b2589",
   "orientation": "any",
