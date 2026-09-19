@@ -3,7 +3,7 @@
   "short_name": "Midwife Par Excellence",
   "description": "Pregnancy, antenatal, birth and reproductive-health education from Simone Cooper-Bernard, JP, with a Jamaica-wide maternal-health service finder.",
   "id": "./",
-  "start_url": "./",
+  "start_url": "./#home",
   "scope": "./",
   "display": "standalone",
   "background_color": "#fffafc",
