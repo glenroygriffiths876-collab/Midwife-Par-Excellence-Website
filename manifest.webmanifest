@@ -6,28 +6,24 @@
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "display_override": [
-    "standalone",
-    "minimal-ui"
-  ],
   "background_color": "#fffafc",
   "theme_color": "#5b2589",
   "orientation": "any",
   "icons": [
     {
-      "src": "assets/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "assets/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "assets/maskable-512.png",
+      "src": "maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
