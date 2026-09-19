@@ -1,10 +1,9 @@
-GITHUB WEB-UPLOAD READY
+SIMONE COOPER-BERNARD, JP — MIDWIFE PAR EXCELLENCE
 
-1. Extract the ZIP.
-2. Upload ALL files in this folder to the ROOT of your GitHub repository.
-3. index.html is intentionally under GitHub's 25 MB browser-upload limit.
-4. Commit the changes.
-5. Wait 1-3 minutes for GitHub Pages to deploy.
-6. Open the site in an Incognito/Private tab first to bypass an older cached version.
+1. Extract this ZIP.
+2. Upload ALL extracted files directly to the ROOT of your GitHub repository.
+3. Commit the changes to main.
+4. Open the deployed site in an Incognito/Private tab first to bypass the previous cached build.
+5. The purple loading screen should now show Simone’s caricature, not the heart.
 
-The main website photos and Simone assistant artwork are embedded directly inside index.html, so there is no assets folder to lose.
+Do not upload the ZIP itself.
